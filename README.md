@@ -7,7 +7,7 @@
 ## 使用方法
 
 ```js
-import watermark from 'watermark'
+import watermark from 'vite-plugin-vue-tool'
 ```
 ## 使用参数
 
