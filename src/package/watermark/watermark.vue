@@ -5,7 +5,9 @@
 </template>
 
 <script>
-export default { name: 'watermark' }
+export default {
+  name: 'watermark'
+}
 </script>
 <script setup>
 import {ref,onMounted,reactive} from 'vue'

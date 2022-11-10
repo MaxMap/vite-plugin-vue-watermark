@@ -7,7 +7,13 @@
 ## 使用方法
 
 ```js
-import watermark from 'vite-plugin-vue-tool'
+import plugin from 'vite-plugin-vue-tool'
+const app = createApp(App)
+app.use(plugin)
+
+```
+```js
+<watermark></watermark>
 ```
 ## 使用参数
 
